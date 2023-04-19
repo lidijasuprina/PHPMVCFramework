@@ -1,0 +1,16 @@
+{
+    "name": "lidija/phpmvc-framework",
+    "description": "PHP MVC Framework tutorial (https://www.youtube.com/watch?v=6ERdu4k62wI)",
+    "authors": [
+        {
+            "name": "Lidija Šuprina",
+            "email": "lidija.suprina7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
