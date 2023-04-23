@@ -1,5 +1,5 @@
 <?php 
-use \app\core\Application;
+    use \app\core\Application;
 ?>
 
 <!doctype html>
